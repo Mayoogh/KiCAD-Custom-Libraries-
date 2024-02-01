@@ -1,0 +1,88 @@
+(footprint "micro_sd_card_module" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 7.62 -11.43 unlocked) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a76437ee-dee0-414a-b573-869a07d5ab82)
+  )
+  (fp_text value "micro_sd_card_module" (at 0 -2.794 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp c8b12cb8-f336-4d80-92f6-8be3446bf3ca)
+  )
+  (fp_text user "${REFERENCE}" (at 7.62 -11.43 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 39f9ff18-4dfb-41b7-aaa0-8dee02fbf619)
+  )
+  (fp_line (start -6.65 10.3124) (end -5.15 10.3124) (layer "F.SilkS") (width 0.1) (tstamp 0abf72d8-271a-4988-888f-746c9384d202))
+  (fp_line (start -6.65 -1.7876) (end 6.65 -1.7876) (layer "F.SilkS") (width 0.1) (tstamp 1d59af44-fc3e-4c49-a2a9-43bcc567a997))
+  (fp_line (start -6.65 10.3124) (end -6.65 -1.7876) (layer "F.SilkS") (width 0.1) (tstamp 260cc83c-4187-4454-b8d7-6c6a267193ca))
+  (fp_line (start 6.65 -1.7876) (end 6.65 10.3124) (layer "F.SilkS") (width 0.1) (tstamp 2887fd9d-07cc-494c-8f99-b138e61d53b4))
+  (fp_line (start 6.65 10.3124) (end 5.15 10.3124) (layer "F.SilkS") (width 0.1) (tstamp 38d7a1fa-e26d-4c55-a580-118310e75ede))
+  (fp_line (start 6.65 10.3124) (end 6.65 -1.7876) (layer "F.SilkS") (width 0.1) (tstamp 44b3e363-bdb4-41f1-b531-5bdc9b957dbd))
+  (fp_line (start 5.85 1.2124) (end 5.85 6.2124) (layer "F.SilkS") (width 0.1) (tstamp 4c466ff2-c764-468e-b26b-198bd6408a94))
+  (fp_line (start 6.65 7.7724) (end 9.0551 7.7724) (layer "F.SilkS") (width 0.1) (tstamp 5582e733-e839-4106-a5a0-a2ad68284f63))
+  (fp_line (start -6.65 -1.7876) (end -6.65 10.3124) (layer "F.SilkS") (width 0.1) (tstamp 6a3bd5f5-a9c3-4d9d-86fb-fcb8309a0bd2))
+  (fp_line (start -6.65 -1.7876) (end 6.65 -1.7876) (layer "F.SilkS") (width 0.1) (tstamp 6e30916e-7c72-495e-a68c-22e1aafec7e2))
+  (fp_line (start 6.65 10.3124) (end 5.15 10.3124) (layer "F.SilkS") (width 0.1) (tstamp 6f2ecfdb-3f2d-4111-9d2a-4767d59c103f))
+  (fp_line (start 5.85 6.2124) (end 3.35 6.2124) (layer "F.SilkS") (width 0.1) (tstamp 74b29098-e4bf-4403-870e-5fd1429619f9))
+  (fp_line (start 9.0551 -10.3124) (end -9.0551 -10.3124) (layer "F.SilkS") (width 0.1) (tstamp 7797e88f-39f0-4991-af77-3caf89e1ea65))
+  (fp_line (start 3.35 1.2124) (end 5.85 1.2124) (layer "F.SilkS") (width 0.1) (tstamp 90878f09-5622-47d7-b7ad-40f7a21e98ea))
+  (fp_line (start -6.65 -1.7876) (end -6.65 10.3124) (layer "F.SilkS") (width 0.1) (tstamp 9299c33a-20e4-42ac-9db4-023b975b9ac9))
+  (fp_line (start -9.0551 -10.3124) (end -9.0551 7.7724) (layer "F.SilkS") (width 0.1) (tstamp 9478da55-70c6-44c1-af31-c62481bf472f))
+  (fp_line (start 3.35 6.2124) (end 3.35 1.2124) (layer "F.SilkS") (width 0.1) (tstamp 9cf83ed6-e551-4354-97f4-dff8673d0b1f))
+  (fp_line (start 6.65 10.3124) (end 6.65 -1.7876) (layer "F.SilkS") (width 0.1) (tstamp a4182782-917b-4faf-b21a-e26014d7ff23))
+  (fp_line (start 5.15 10.3124) (end 6.65 10.3124) (layer "F.SilkS") (width 0.1) (tstamp a8c1354e-5070-4823-8ffb-5dd9e8634b69))
+  (fp_line (start -9.0551 7.7724) (end -6.65 7.7724) (layer "F.SilkS") (width 0.1) (tstamp be9c8845-8e2c-4ed7-a23f-ea766f6b30c2))
+  (fp_line (start -6.65 10.3124) (end -5.15 10.3124) (layer "F.SilkS") (width 0.1) (tstamp db3685f9-9885-4baf-8cee-8c2bdc063ed3))
+  (fp_line (start 9.0551 7.7724) (end 9.0551 -10.3124) (layer "F.SilkS") (width 0.1) (tstamp f14f813c-3d5a-4326-a5ca-f28b7aa7aaf7))
+  (fp_line (start -5.15 10.3124) (end -6.65 10.3124) (layer "F.SilkS") (width 0.1) (tstamp f92d3e1c-0aaf-4a98-b788-d0e2146d711d))
+  (fp_arc (start -5.15 10.3124) (mid 0 8.5324) (end 5.15 10.3124) (layer "F.SilkS") (width 0.1) (tstamp 680753dc-23d5-4c24-a10e-534b2c9d0674))
+  (fp_arc (start -5.15 10.3124) (mid 0 8.5324) (end 5.15 10.3124) (layer "F.SilkS") (width 0.1) (tstamp b55a7bee-7d42-46af-a861-f12e81296bc6))
+  (fp_arc (start -5.15 10.3124) (mid 0 8.5324) (end 5.15 10.3124) (layer "F.SilkS") (width 0.1) (tstamp f963aec8-79e4-4bcf-9469-3a58ceab2143))
+  (fp_circle (center 7.493 -5.715) (end 8.793 -5.715) (layer "F.SilkS") (width 0.1) (fill none) (tstamp e4fe2ec2-8a76-4d29-85f3-a630c071f1a1))
+  (fp_circle (center -7.493 -5.715) (end -6.193 -5.715) (layer "F.SilkS") (width 0.1) (fill none) (tstamp ff544cc5-d682-4ab3-ad14-939d8152fd86))
+  (fp_circle (center 7.493 -5.715) (end 8.636 -5.715) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 0d7d5517-edfe-49dc-8777-c36b3dfd24c1))
+  (fp_circle (center -7.493 -5.715) (end -6.35 -5.715) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp a92ed166-0440-4b1f-a370-062676bef87a))
+  (pad "1" thru_hole circle (at -6.35 -9.0424) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 5da6c378-dd93-4cc8-960f-acd9fe6fab1d))
+  (pad "2" thru_hole circle (at -3.81 -9.0424) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 291d3ff6-6a9c-4d28-bd64-eda877603831))
+  (pad "3" thru_hole circle (at -1.27 -9.0424) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp b3c1658a-a5a8-48c7-b5a3-b60bd20517a5))
+  (pad "4" thru_hole circle (at 1.27 -9.0424) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 8e95173d-5fcf-4656-ab75-9e2b96e9bbdf))
+  (pad "5" thru_hole circle (at 3.81 -9.0424) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp b963809c-e96e-4efb-ab43-919dda77d394))
+  (pad "6" thru_hole circle (at 6.35 -9.0424) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp c9d34af2-4416-43fa-898d-218fef1e307e))
+  (group "" (id bb0556c9-f06f-48ac-8e90-16a9a5de2c73)
+    (members
+      0abf72d8-271a-4988-888f-746c9384d202
+      1d59af44-fc3e-4c49-a2a9-43bcc567a997
+      260cc83c-4187-4454-b8d7-6c6a267193ca
+      2887fd9d-07cc-494c-8f99-b138e61d53b4
+      38d7a1fa-e26d-4c55-a580-118310e75ede
+      44b3e363-bdb4-41f1-b531-5bdc9b957dbd
+      4c466ff2-c764-468e-b26b-198bd6408a94
+      5582e733-e839-4106-a5a0-a2ad68284f63
+      680753dc-23d5-4c24-a10e-534b2c9d0674
+      6a3bd5f5-a9c3-4d9d-86fb-fcb8309a0bd2
+      6e30916e-7c72-495e-a68c-22e1aafec7e2
+      6f2ecfdb-3f2d-4111-9d2a-4767d59c103f
+      74b29098-e4bf-4403-870e-5fd1429619f9
+      7797e88f-39f0-4991-af77-3caf89e1ea65
+      90878f09-5622-47d7-b7ad-40f7a21e98ea
+      9299c33a-20e4-42ac-9db4-023b975b9ac9
+      9478da55-70c6-44c1-af31-c62481bf472f
+      9cf83ed6-e551-4354-97f4-dff8673d0b1f
+      a4182782-917b-4faf-b21a-e26014d7ff23
+      a8c1354e-5070-4823-8ffb-5dd9e8634b69
+      b55a7bee-7d42-46af-a861-f12e81296bc6
+      be9c8845-8e2c-4ed7-a23f-ea766f6b30c2
+      db3685f9-9885-4baf-8cee-8c2bdc063ed3
+      f14f813c-3d5a-4326-a5ca-f28b7aa7aaf7
+      f92d3e1c-0aaf-4a98-b788-d0e2146d711d
+      f963aec8-79e4-4bcf-9469-3a58ceab2143
+    )
+  )
+  (model "G:/My Drive/KiCAD Libraries/Modules/modules.pretty/mini_micro_sd_card_reader_module.stp"
+    (offset (xyz 0 1.25 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -180))
+  )
+)
