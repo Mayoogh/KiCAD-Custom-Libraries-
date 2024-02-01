@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IR4427PBF
+D Infineon IR4427PBF Dual Low Side MOSFET Power Driver, 3.3A, 6  20 V 8-Pin, PDIP
+K
+F https://www.infineon.com/cms/en/product/power/gate-driver-ics/?
+$ENDCMP
+#
+#End Doc Library
